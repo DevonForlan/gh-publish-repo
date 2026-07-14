@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Repo Publisher"
+  short_description: "Safely publish a local project folder to GitHub."
+  default_prompt: "Use $gh-publish-repo to safely create a GitHub repository from a local project folder."
